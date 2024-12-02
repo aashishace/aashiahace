@@ -1,24 +1,31 @@
-# 👋 Hey there, I'm Aashish!  
+# 👋 Hi there, I'm Aashish!  
 
-🌄 **Nature Enthusiast | Adventurer | Software Engineer**  
-💻 Passionate about building Android apps, exploring modern technologies, and simplifying everyday life through innovative solutions.  
+🌟 **Tech Enthusiast | Android Engineer | Full-Stack Developer | Adventurer**  
+I specialize in creating robust and user-friendly mobile and web applications, blending creativity with technical expertise to deliver impactful digital experiences.
 
-## 🌱 Currently:  
-- Diving deeper into **Kotlin**, **Jetpack Compose**, and **cross-platform solutions**.  
-- Working on **BestRide**, an app to unify ride-hailing services.  
-- Exploring trading strategies and enhancing my **breakout analysis** skills.  
+---
 
-## 🔭 Interests:  
-- Mobile app development with cutting-edge tools.  
-- Capturing the essence of mountains through photography.  
-- Understanding human behavior with psychology books and movies.  
+## 🌱 Currently Exploring  
+- **Modern Android Development**: Jetpack Compose, Kotlin Multiplatform  
+- **Advanced Web Frameworks**: React, Astro, Svelte  
+- **Optimized Cloud Deployments**: Firebase, Cloudflare  
 
-## 💬 Let's Talk About:  
-- Building intuitive mobile apps.  
-- Breaking down trading patterns and strategies.  
-- Anything tech, nature, or adventure-related!  
+---
 
-⚡️ **Fun Fact:** Living amidst nature is my therapy, and I love brainstorming on innovative ideas.  
+## 🔭 Professional Highlights  
+- 🚀 **Android Specialist**: Mastering Kotlin, Jetpack Compose, and scalable app architectures.  
+- 🌐 **Web Development Expert**: From **WordPress** CMS to dynamic **React**-powered apps, I've built seamless user interfaces and optimized backend systems.  
+- 💡 **Product Innovator**: Developing **BestRide**, a ride-hailing aggregator app.  
+- 📈 **Trading Enthusiast**: Passionate about analyzing market trends and creating intuitive tools for traders.  
+
+---
+
+## 💬 Let's Chat About  
+- 📱 Mobile & Web Development  
+- 🌐 Building Scalable Cloud Solutions  
+- 🧠 Psychology, Nature, and Adventure  
+
+⚡️ **Fun Fact:** I'm equally at home debugging code as I am scaling mountains — both require resilience and strategy!  
 
 ---
 
@@ -29,23 +36,35 @@
 
 ---
 
-## 💻 Tech Stack:  
+## 💻 Tech Stack  
 
 ### **Languages**  
-`Kotlin` `Java` `JavaScript` `Python` `Dart` `HTML` `CSS` `TypeScript`  
+`Kotlin` `Java` `JavaScript` `TypeScript` `Dart` `HTML` `CSS` `Python` `PHP`  
 
-### **Frameworks, Platforms, & Libraries**  
-`Jetpack Compose` `Retrofit` `Dagger Hilt` `Room`  
-`React` `Flutter` `Astro` `Node.js` `TailwindCSS`  
-`Svelte` `Vue.js` `Express.js`  
+### **Frameworks & Libraries**  
+`Jetpack Compose` `React` `Astro` `Svelte` `Vue.js` `Flutter`  
+`TailwindCSS` `Bootstrap` `Express.js` `WordPress`  
+
+### **Platforms & CMS**  
+`WordPress` `GhostCMS`  
 
 ### **DevOps & Tools**  
-`Android Studio` `Postman` `Git` `GitHub Actions` `Docker` `Firebase`  
-`VS Code` `IntelliJ IDEA` `Xcode`  
-
-### **Hosting & Cloud**  
-`Firebase` `Cloudflare` `Hostinger` `Appwrite`  
+`Android Studio` `Postman` `Git` `GitHub Actions` `Docker`  
+`Firebase` `Cloudflare` `Hostinger` `VS Code`  
 
 ---
 
+## 🌟 Featured Work  
 
+### BestRide 🚕  
+- An app integrating major ride-hailing services like Uber and Ola, making travel seamless.  
+- Features: **Real-time pricing**, **trip comparisons**, and **rider analytics**.  
+
+
+
+---
+
+## 📊 GitHub Stats  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
